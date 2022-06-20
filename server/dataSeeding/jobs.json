@@ -1,0 +1,47 @@
+[
+    {
+        "title":"Backend Developer",
+        "description":"working on server only for maintain the stabilization of server for fetching data",
+        "companyId":1,
+        "authorId":1,
+        "jobType":"full time",
+        "createdAt":"2022-03-29T12:22:26.575Z",
+        "updatedAt":"2022-03-29T12:22:26.575Z"
+    },
+    {
+        "title":"Frontend Developer",
+        "description":"working on client side for designin UI/UX for user experience ",
+        "companyId":2,
+        "authorId":1,
+        "jobType":"part time",
+        "createdAt":"2022-03-29T12:22:26.575Z",
+        "updatedAt":"2022-03-29T12:22:26.575Z"
+    },
+    {
+        "title":"Fullstack Developer",
+        "description":"working on both sides server and client to make whole website",
+        "companyId":3,
+        "authorId":1,
+        "jobType":"full time",
+        "createdAt":"2022-03-29T12:22:26.575Z",
+        "updatedAt":"2022-03-29T12:22:26.575Z"
+    },
+    {
+        "title":"Backend Developer",
+        "description":"working on server only for maintain the stabilization of server for fetching data",
+        "companyId":1,
+        "authorId":1,
+        "jobType":"part time",
+        "createdAt":"2022-03-29T12:22:26.575Z",
+        "updatedAt":"2022-03-29T12:22:26.575Z"
+    },
+    {
+        "title":"Frontend Developer",
+        "description":"working on client side for designin UI/UX for user experience ",
+        "companyId":2,
+        "authorId":1,
+        "jobType":"full time",
+        "createdAt":"2022-03-29T12:22:26.575Z",
+        "updatedAt":"2022-03-29T12:22:26.575Z"
+    }
+]

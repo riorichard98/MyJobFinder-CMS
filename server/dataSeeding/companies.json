@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Sinarmas",
+        "companyLogo": "http://depopipa.co.id/wp-content/uploads/2016/01/Sinar-mas.png",
+        "location": "Jakarta",
+        "email": "sinarmas@ymail.com",
+        "description": "Sinar Mas merupakan sebuah brand name dengan operasi bisnis yang bergerak di berbagai sektor, seperti Pulp dan Kertas, Agribisnis dan Food, Jasa Keuangan, Developer dan Real Estate, Telekomunikasi, dan Energi dan Infrastruktur, termasuk Kesehatan dan Pendidikan"
+    },
+    {
+        "name": "Infratech Indonesia",
+        "companyLogo": "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/f260d6178355e893e13eece46f9d9942.jpg",
+        "location": "Bangka Belitung",
+        "email": "infratech@ymail.com",
+        "description": "PT. INFRATECH INDONESIA adalah perusahaan Pelaksanaan konstruksi berbentuk PT. PT. INFRATECH INDONESIA beralamat di Jl. Cideng Timur"
+    },
+    {
+        "name": "April",
+        "companyLogo": "https://lokerbumn.com/wp-content/uploads/2021/07/April-group.jpg",
+        "location": "Pekanbaru",
+        "email": "april@ymail.com",
+        "description": "Asia Pacific Resources International Holdings Ltd (APRIL) adalah anggota dari RGE Group yang didirikan oleh Sukanto Tanoto pada tahun 1973. Di bawah kepemimpinannya, RGE Group telah berkembang menjadi kelompok usaha global yang mempekerjakan lebih dari 60.000 karyawan, dengan total aset lebih dari US$ 25 miliar serta jangkauan penjualan di seluruh dunia."
+    }
+]
